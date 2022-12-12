@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: AKIAVXZXAG3G52BSWHNJ
+      secret-key: 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
+    endpoint:
+      uri: https://sqs.us-east-1.amazonaws.com/394715477709/natan-queue
